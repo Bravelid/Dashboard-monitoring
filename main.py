@@ -1,7 +1,8 @@
 
+
 import extraction
 
 if __name__ == "__main__":
-    print("ingfo diterima")
+    print("Latest earthquake information")
     result = extraction.ekstrak()
-    extraction.tampilkandata(result)
+    extraction.showdata(result)

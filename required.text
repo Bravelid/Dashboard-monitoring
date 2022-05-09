@@ -1,0 +1,4 @@
+What is needed to run the program is as follows
+: Packages
+  : Beautifulsoup4
+    Requests

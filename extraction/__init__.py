@@ -64,7 +64,7 @@ Dirasakan (Skala MMI) : III-IV Pasirian, III-IV Pronojiwo, III-IV Sendupuro, III
         return None
 
 
-def tampilkandata(result) :
+def showdata(result) :
     if result is None :
         print("Tidak ada data Gempa")
         return
